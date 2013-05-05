@@ -423,11 +423,13 @@ hi
 
 //////////// Hats ////////////
 
+/*
 /obj/item/clothing/head/secsoft/fluff/swatcap //deusdactyl: James Girard
 	name = "\improper SWAT hat"
 	desc = "A black hat.  The inside has the words, \"Lieutenant James Girard, LPD SWAT Team Four.\""
 	icon = 'custom_items.dmi'
 	icon_state = "swatcap"
+*/
 
 /obj/item/clothing/head/welding/fluff/alice_mccrea_1 //madmalicemccrea: Alice McCrea
 	name = "flame decal welding helmet"
@@ -488,14 +490,14 @@ hi
 	desc = "This lab coat has clearly seen better, less burnt, days."
 	icon = 'custom_items.dmi'
 	icon_state = "labcoat_burnt_open"
-
+/*
 /obj/item/clothing/suit/armor/vest/fluff/deus_blueshield //deusdactyl
 	name = "blue shield security armor"
 	desc = "An armored vest with the badge of a Blue Shield Security lieutenant."
 	icon = 'custom_items.dmi'
 	icon_state = "deus_blueshield"
 	item_state = "deus_blueshield"
-
+/*
 //////////// Uniforms ////////////
 
 /obj/item/clothing/under/fluff/jumpsuitdown //searif: Yuki Matsuda
